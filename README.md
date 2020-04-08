@@ -5,7 +5,6 @@ Tools used (to reverse):
 - dnSpy (5.0.5, x64)
 
 # .prj Information
-- x86/32-bits only
 - Built with .NET Framework 4 (Client Profile)
 
 # App Information
